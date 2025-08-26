@@ -2,7 +2,7 @@
 
 💻 Passionate about coding, learning, and building useful things.  
 🌱 Currently exploring **Python**, **Java**, and leveling up in **Ruby**.  
-⚡ Fun fact: I write code like poetry (sometimes buggy poetry 😅).  
+⚡ Fun fact: I write code like poetry (sometimes buggy poetry).  
 
 ---
 

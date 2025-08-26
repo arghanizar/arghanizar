@@ -1,4 +1,4 @@
-#  Hi, I’m Argha Nizar  
+# 🌌 arghanizar | Just another noob tryna code 
 
 💻 Passionate about coding, learning, and building useful things.  
 🌱 Currently exploring **Python**, **Java**, and leveling up in **Ruby**.  
@@ -6,7 +6,7 @@
 
 ---
 
-## Tech Stack
+## 🚀 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
@@ -15,19 +15,19 @@
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=arghanizar&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arghanizar&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arghanizar&theme=tokyonight)  
+![GitHub Streak](https://streak-stats.demolab.com?user=arghanizar&theme=tokyonight)  
 
 ---
 
-## Learning Journey
+## 🌱 Learning Journey
 - 🚀 Currently learning **Python basics**  
 - 📘 Exploring **Java** for OOP  
 - 💎 Trying out **Ruby** step by step  
 
 ---
 
-## Quote of the Day
-> *"Ain’t no cap, clean code hits different”."*
+## ✨ Quote of the Day
+> *“Ain’t no cap, clean code hits different.”*
